@@ -1,2 +1,2 @@
 # Goals
-Turn in for code related to year long project
+Submit any code needed to satisfy the requirements of the specified quarterly goal
